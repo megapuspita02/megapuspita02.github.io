@@ -9,7 +9,7 @@ body {
 	margin: 0;
 	padding: 0;
 	height: 100vh;
-	background: url(../Megaa/web.jpg);
+	background: url(../web.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -22,7 +22,7 @@ body {
 	width: 100%;
 	left: 0;
 	bottom: 0;
-	background: url(../Megaa/wave.png) 100% 100% no-repeat;
+	background: url(../wave.png) 100% 100% no-repeat;
 	background-size: contain;
 
 }
